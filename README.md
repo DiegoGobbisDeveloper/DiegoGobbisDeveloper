@@ -14,4 +14,4 @@ Estou terminando o curso de Sistemas de Informação na UEMG.
 
 Estou aberto a projetos freelance e a vagas de desenvolvedor full stack ou back-end. Se você tem um projeto ou uma vaga em aberto, me manda um e-mail:
 
-📧 [diegogobbisdev@gmail.com](mailto:diegogobbisdev@gmail.com)
+📧 [gobbis.developer@gmail.com](mailto:diegogobbisdev@gmail.com)
